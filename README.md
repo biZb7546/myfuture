@@ -1,2 +1,2 @@
 # myfuture
-my personal repository
+New to git and github -- exploring
